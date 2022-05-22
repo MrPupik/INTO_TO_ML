@@ -1,8 +1,8 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.background": "#10E22F",
-    "titleBar.activeBackground": "#1CEF3B",
-    "titleBar.activeForeground": "#021F06"
+    "activityBar.background": "#64b270",
+    "titleBar.activeBackground": "#64b270",
+    "titleBar.activeForeground": "#132514"
   },
   "python.formatting.provider": "autopep8",
   "jupyter.jupyterServerType": "local"
